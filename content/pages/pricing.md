@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: About us
 sections:
   - section_id: pricing
     type: section_pricing
@@ -73,7 +73,7 @@ sections:
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 seo:
-  title: Pricing
+  title: About us
   description: This is the pricing page
   extra:
     - name: 'og:type'

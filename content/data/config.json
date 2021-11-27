@@ -4,7 +4,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/logo.jpg",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -14,23 +14,29 @@
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Events",
+                "url": "/events",
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Jews in Aachen",
+                "url": "/aachen",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Media",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
+                "label": "About Us",
+                "url": "/about",
+                "style": "link"
+            },
+            
+            {
+                "label": "Log In",
+                "url": "/login",
                 "style": "primary"
             }
         ]
@@ -39,7 +45,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/logo.jpg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"

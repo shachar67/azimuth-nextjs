@@ -5,26 +5,26 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Jüdische Gemeinde Aachen
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      *kurzes Zitat des Gemeindevorstehers über seine Essenz (2-3 Zeilen).*
+      <br/> Herr Dr. Robert Neugröschel
     actions:
-      - label: Learn More
+      - label: Visit us!
         url: /features
         style: primary
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Unsere Gemeinde
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Alle Mitglieder und jüdischen Mitbürger der Region Aachen sind herzlich willkommen
     features:
-      - title: The Best Feature of Your Services
+      - title: Jungen Zentrum
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
+          <span style="color:#1492ff">8 bis 18 Jahre alt</span> </br>
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
@@ -35,10 +35,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Sonntags kindergarten
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
+          <span style="color:#1492ff">2 bis 8 Jahre alt</span> </br>
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
@@ -49,10 +50,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Studentische gruppe
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
+          <span style="color:#1492ff">für den kluge Köpfe von aachen  </span> </br>
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
@@ -66,7 +68,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: What our members think 
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
@@ -92,16 +94,16 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Want to become a member or join our groups?
+    subtitle: Feel free to make an appointment with us
     actions:
-      - label: Get Started
+      - label: Let's meet!
         url: /signup
         style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Latest Media release
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
