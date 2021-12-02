@@ -95,14 +95,15 @@
                         "has_icon": true,
                         "icon": "instagram",
                         "icon_position": "left"
-                    }{
+                    },
+                    {
                         "label": "Twitter",
                         "url": "https://twitter.com/",
                         "style": "link",
                         "has_icon": true,
                         "icon": "twitter",
                         "icon_position": "left"
-                    },
+                    }
                     
                 ]
             },
