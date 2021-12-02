@@ -3,7 +3,7 @@ title: About Us
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-image: images/about_2.JPG
+image: images/about_2.png
 image_alt: Team members in a conference room
 seo:
   title: About Us
