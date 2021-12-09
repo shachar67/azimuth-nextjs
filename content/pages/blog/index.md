@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: Erziehung & Bildung
 seo:
-  title: Blog
+  title: Erziehung & Bildung
   description: This is the blog page
   extra:
     - name: 'og:type'

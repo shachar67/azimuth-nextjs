@@ -1,11 +1,11 @@
 ---
-title: Jaws In Aachen
+title: Kultus & Religion
 subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 seo:
-  title: Jews in Aachen
+  title: Kultus & Religion
   description: This is the style guide page
   extra:
     - name: 'og:type'

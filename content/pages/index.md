@@ -5,12 +5,16 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Jüdische Gemeinde Aachen
+    title: >-
+      JÜDISCHE GEMEINDE AACHEN 
+    subtitle: >-
+      Alle Mitglieder und jüdischen Mitbürger der Region Aachen sind herzlich willkommen
     content: >-
-      *kurzes Zitat des Gemeindevorstehers über seine Essenz (2-3 Zeilen).*
-      <br/> Herr Dr. Robert Neugröschel
+      *Schalom und herzlich willkommen auf der Homepage der Jüdischen gemeinde Aachen K.d.ö.R. </br>
+      <br>Mit etwa 1.259 Mitgliedern gehört die Jüdische Gemeinde Aachen yum Landesverband der Jüdischen Gemeinden von Nordreihn K.d.ö.R. </br>
+      <br>Wir bieten Ihnen die Möglichkeit sich über das vielseitige Leben und die Geschichte unserer Gemeinde, sowie über das Judentum yu informieren.*
     actions:
-      - label: Visit us!
+      - label: Besuchen!
         url: /features
         style: primary
   - section_id: features
@@ -105,8 +109,8 @@ sections:
     background: gray
     title: Latest Media release
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: JÜDISCHE GEMEINDE AACHEN
+  description: JÜDISCHE GEMEINDE AACHEN
   extra:
     - name: 'og:type'
       value: website

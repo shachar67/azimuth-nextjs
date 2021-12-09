@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Unsere Gemeinde
 sections:
   - section_id: features
     type: section_content
@@ -38,7 +38,7 @@ sections:
         url: '#'
         style: secondary
 seo:
-  title: Events
+  title: Unsere Gemeinde
   description: This is the features page
   extra:
     - name: 'og:type'

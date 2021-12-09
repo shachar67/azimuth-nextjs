@@ -1,12 +1,12 @@
 ---
-title: About Us
+title: Kalender
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
 image: images/about_2.png
 image_alt: Team members in a conference room
 seo:
-  title: About Us
+  title: Kalender
   description: This is the about page
   extra:
     - name: 'og:type'

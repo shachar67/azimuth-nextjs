@@ -14,23 +14,28 @@
                 "style": "link"
             },
             {
-                "label": "Events",
-                "url": "/events",
+                "label": "Unsere Gemeinde",
+                "url": "/unsere_gemeinde",
                 "style": "link"
             },
             {
-                "label": "Jews in Aachen",
-                "url": "/aachen",
+                "label": "Kultus & Religion",
+                "url": "/kultus_und_religion",
                 "style": "link"
             },
             {
-                "label": "Media",
+                "label": "Erziehung & Bildung",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "About Us",
-                "url": "/about",
+                "label": "Kalender",
+                "url": "/kalender",
+                "style": "link"
+            },
+            {
+                "label": "Kontakt",
+                "url": "/kontakt",
                 "style": "link"
             },
             
